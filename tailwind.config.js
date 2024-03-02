@@ -8,6 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'rain': "url('./assets/rain.gif')",
+        'clouds': "url('./assets/nubes.gif')"
       }
     },
   },

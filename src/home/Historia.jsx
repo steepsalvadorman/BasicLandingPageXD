@@ -2,7 +2,7 @@ function Historia() {
   return (
     <section className=" bg-slate-600">
       <div className=" text-white mx-auto md:container ">
-        <h2 className="text-3xl pt-10 ">Historia</h2>
+        <h2 className="text-3xl pt-10 ">Historia 👌</h2>
         <p className="text-xl pt-10 pb-10">
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id ad nemo
           eos sed fugiat dignissimos culpa. Repudiandae molestiae, mollitia

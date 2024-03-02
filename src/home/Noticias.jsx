@@ -1,7 +1,7 @@
 function Noticias() {
   return (
-    <section className="bg-slate-600 text-white">
-      <div className="mx-auto md:container">
+    <section className=" bg-slate-600 text-white font-bold">
+      <div className=" bg-[url('./assets/nubes.gif')] bg-cover bg-center mx-auto md:container w-full">
         <h2 className="text-3xl py-4">Noticias</h2>
         <div className=" columns-3 text-xl">
           <article >
